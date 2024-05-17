@@ -1,0 +1,10 @@
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\bin\Debug\StudentTmpl11.exe.config
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\bin\Debug\StudentTmpl11.exe
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\bin\Debug\StudentTmpl11.pdb
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\obj\Debug\StudentTmpl11.csprojAssemblyReference.cache
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\obj\Debug\StudentTmpl11.Form1.resources
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\obj\Debug\StudentTmpl11.Properties.Resources.resources
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\obj\Debug\StudentTmpl11.csproj.GenerateResource.cache
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\obj\Debug\StudentTmpl11.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\obj\Debug\StudentTmpl11.exe
+c:\users\user\source\repos\StudentTmpl11\StudentTmpl11\obj\Debug\StudentTmpl11.pdb
